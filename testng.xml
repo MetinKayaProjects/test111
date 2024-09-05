@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!--suites  -> suite -> test-> groups-> package -> class -> method -->
+
+<suite name="Movie tests">
+    <test name="Movie">
+        <!--        we are specifying which tests we want to run here-->
+        <classes>
+            <class name="tests.regresIn.GETRegresInApiTests"/>
+            <class name="tests.regresIn.POSTRegresInApiTests"/>
+        </classes>
+
+    </test>
+
+</suite>

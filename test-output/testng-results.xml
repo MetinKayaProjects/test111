@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="3063" started-at="2023-04-11T02:37:50Z" finished-at="2023-04-11T02:37:53Z">
+    <groups>
+    </groups>
+    <test name="RestAssuredMtn" duration-ms="3063" started-at="2023-04-11T02:37:50Z" finished-at="2023-04-11T02:37:53Z">
+      <class name="tests.regresIn.GETRegresInApiTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="setUp" is-config="true" duration-ms="515" started-at="2023-04-11T02:37:50Z" finished-at="2023-04-11T02:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1_listOfUsers()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="test1_listOfUsers" duration-ms="1819" started-at="2023-04-11T02:37:50Z" description="LIST USERS" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_listOfUsers -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="teardown" is-config="true" duration-ms="1" started-at="2023-04-11T02:37:52Z" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="setUp" is-config="true" duration-ms="1" started-at="2023-04-11T02:37:52Z" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test2_SingleUser()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="test2_SingleUser" duration-ms="153" started-at="2023-04-11T02:37:52Z" description="SINGLE USER" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_SingleUser -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="teardown" is-config="true" duration-ms="1" started-at="2023-04-11T02:37:52Z" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="setUp" is-config="true" duration-ms="0" started-at="2023-04-11T02:37:52Z" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="test3" duration-ms="250" started-at="2023-04-11T02:37:52Z" description="SINGLE USER-2" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="teardown" is-config="true" duration-ms="1" started-at="2023-04-11T02:37:52Z" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="setUp" is-config="true" duration-ms="0" started-at="2023-04-11T02:37:52Z" finished-at="2023-04-11T02:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="test4" duration-ms="298" started-at="2023-04-11T02:37:52Z" description="SINGLE USER NOT FOUND" finished-at="2023-04-11T02:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.regresIn.GETRegresInApiTests@35bbe5e8]" name="teardown" is-config="true" duration-ms="1" started-at="2023-04-11T02:37:53Z" finished-at="2023-04-11T02:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.regresIn.GETRegresInApiTests -->
+    </test> <!-- RestAssuredMtn -->
+  </suite> <!-- Default Suite -->
+</testng-results>
